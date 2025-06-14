@@ -1,4 +1,5 @@
-                            Projet Boost DotNet - ARONAINASOA Yisraèl Qadmièlslloos
+Projet Boost DotNet - ARONAINASOA Yisraèl Qadmièlslloos
+
 Bienvenue dans le dépôt du projet Boost DotNet, réalisé par ARONAINASOA Yisraèl Qadmièlslloos, étudiant en DA2I L3 (Informatique) à l'EMIT Fianarantsoa, numéro d'inscription 016I23. Ce projet est une application développée avec .NET pour démontrer des compétences en développement web, gestion de bases de données et création d'API.
 📖 Description du projet : Boost DotNet est une application web développée avec le framework .NET Core, conçue pour un bref exemple de gestion des clients. Elle utilise une architecture moderne avec une base de données relationnelle (via un fichier SQL) et une interface utilisateur accessible.
 
