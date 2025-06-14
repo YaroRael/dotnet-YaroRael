@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <!-- TOUT LE CSS RESTE EXACTEMENT COMME AVANT -->
+    <style>
+        /* Ajouter dans le style existant */
+        .client-card {
+            background-color: #333;
+            padding: 15px;
+            border-radius: 8px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            animation: fadeInUp 0.5s ease-out;
+            border: 1px solid #444;
+        }
+
+            .client-card img {
+                width: 50px;
+                height: 50px;
+                border-radius: 50%;
+                background-color: #555; /* Couleur placeholder pour le logo */
+                margin-bottom: 10px;
+            }
+
+            .client-card .client-info {
+                text-align: center;
+                color: #e0e0e0;
+            }
+
+                .client-card .client-info p {
+                    margin: 5px 0;
+                    font-size: 14px;
+                }
+
+            .client-card .actions {
+                margin-top: 10px;
+            }
+
+            .client-card button {
+                padding: 8px 15px;
+                margin: 5px;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+                transition: transform 0.2s, background-color 0.3s;
+            }
+
+            .client-card .edit-btn {
+                background-color: #44ff44;
+                color: #1a1a1a;
+            }
+
+                .client-card .edit-btn:hover {
+                    background-color: #00cc00;
+                    transform: scale(1.05);
+                }
+
+            .client-card .delete-btn {
+                background-color: #ff4444;
+                color: #fff;
+            }
+
+                .client-card .delete-btn:hover {
+                    background-color: #cc0000;
+                    transform: scale(1.05);
+                }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Gestion des Clients</h1>
+
+        <!-- Formulaire d'ajout -->
+        <div class="form-container" id="addForm">
+            <h2>Ajouter un client</h2>
+            <input type="text" id="nom" placeholder="Nom" required>
+            <input type="text" id="prenom" placeholder="Prénom" required>
+            <input type="text" id="contact" placeholder="Contact" required>
+            <button onclick="addClient()">Ajouter</button>
+            <button onclick="cancelAdd()">Annuler</button>
+        </div>
+
+        <!-- Formulaire de modification (caché par défaut) -->
+        <div class="form-container" id="editForm" style="display: none;">
+            <h2>Modifier le client</h2>
+            <input type="hidden" id="editId">
+            <input type="text" id="editNom" placeholder="Nom" required>
+            <input type="text" id="editPrenom" placeholder="Prénom" required>
+            <input type="text" id="editContact" placeholder="Contact" required>
+            <button onclick="updateClient()">Mettre à jour</button>
+            <button onclick="cancelEdit()">Annuler</button>
+        </div>
+
+        <!-- Liste des clients en TABLEAU (seul changement structurel) -->
+        <div id="clientList">
+            <h2>Liste des Clients</h2>
+            <div id="clients" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 15px; margin-top: 15px;">
+                <!-- Les clients seront insérés ici par JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Charger la liste des clients au démarrage
+        loadClients();
+
+        function loadClients() {
+            fetch('http://localhost:5000/api/clients')
+                .then(response => response.json())
+                .then(data => {
+                    const clientsContainer = document.getElementById('clients');
+                    clientsContainer.innerHTML = '';
+                    data.forEach(client => {
+                        const div = document.createElement('div');
+                        div.className = 'client-card';
+                        div.innerHTML = `
+                    <img src="https://via.placeholder.com/50" alt="Logo">
+                    <div class="client-info">
+                        <p><strong>ID:</strong> ${client.id}</p>
+                        <p><strong>Nom:</strong> ${client.nom}</p>
+                        <p><strong>Prénom:</strong> ${client.prenom}</p>
+                        <p><strong>Contact:</strong> ${client.contact}</p>
+                    </div>
+                    <div class="actions">
+                        <button class="edit-btn" onclick="startEditClient(${client.id})">Modifier</button>
+                        <button class="delete-btn" onclick="deleteClient(${client.id})">Supprimer</button>
+                    </div>`;
+                        clientsContainer.appendChild(div);
+                    });
+                })
+                .catch(error => console.error('Erreur:', error));
+        }
+
+        // Les autres fonctions RESTENT IDENTIQUES
+        function addClient() {
+            const nom = document.getElementById('nom').value;
+            const prenom = document.getElementById('prenom').value;
+            const contact = document.getElementById('contact').value;
+
+            fetch('http://localhost:5000/api/clients', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ nom, prenom, contact })
+            })
+                .then(response => {
+                    if (response.ok) {
+                        loadClients();
+                        cancelAdd();
+                    }
+                })
+                .catch(error => console.error('Erreur:', error));
+        }
+
+        function cancelAdd() {
+            document.getElementById('nom').value = '';
+            document.getElementById('prenom').value = '';
+            document.getElementById('contact').value = '';
+        }
+
+        function startEditClient(id) {
+            fetch(`http://localhost:5000/api/clients/${id}`)
+                .then(response => response.json())
+                .then(client => {
+                    document.getElementById('editId').value = client.id;
+                    document.getElementById('editNom').value = client.nom;
+                    document.getElementById('editPrenom').value = client.prenom;
+                    document.getElementById('editContact').value = client.contact;
+
+                    document.getElementById('addForm').style.display = 'none';
+                    document.getElementById('editForm').style.display = 'block';
+                })
+                .catch(error => console.error('Erreur:', error));
+        }
+
+        function updateClient() {
+            const id = document.getElementById('editId').value;
+            const nom = document.getElementById('editNom').value;
+            const prenom = document.getElementById('editPrenom').value;
+            const contact = document.getElementById('editContact').value;
+
+            fetch(`http://localhost:5000/api/clients/${id}`, {
+                method: 'PUT',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ id: parseInt(id), nom, prenom, contact })
+            })
+                .then(response => {
+                    if (response.ok) {
+                        loadClients();
+                        cancelEdit();
+                    }
+                })
+                .catch(error => console.error('Erreur:', error));
+        }
+
+        function cancelEdit() {
+            document.getElementById('editId').value = '';
+            document.getElementById('editNom').value = '';
+            document.getElementById('editPrenom').value = '';
+            document.getElementById('editContact').value = '';
+
+            document.getElementById('editForm').style.display = 'none';
+            document.getElementById('addForm').style.display = 'block';
+        }
+
+        function deleteClient(id) {
+            if (confirm('Voulez-vous vraiment supprimer ce client ?')) {
+                fetch(`http://localhost:5000/api/clients/${id}`, {
+                    method: 'DELETE'
+                })
+                    .then(response => {
+                        if (response.ok) loadClients();
+                    })
+                    .catch(error => console.error('Erreur:', error));
+            }
+        }
+    </script>
+</body>
+</html>

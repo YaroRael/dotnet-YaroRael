@@ -1,0 +1,306 @@
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\appsettings.Development.json
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\appsettings.json
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\ProjetCrud.staticwebassets.endpoints.json
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\ProjetCrud.exe
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\ProjetCrud.deps.json
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\ProjetCrud.runtimeconfig.json
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\ProjetCrud.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\ProjetCrud.pdb
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\Humanizer.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\MySqlConnector.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\System.CodeDom.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\obj\Debug\net8.0\ProjetCrud.csproj.AssemblyReference.cache
+D:\DA2I_L3\DOTNET\ProjetCrud\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\DA2I_L3\DOTNET\ProjetCrud\obj\Debug\net8.0\ProjetCrud.GeneratedMSBuildEditorConfig.editorconfig
+D:\DA2I_L3\DOTNET\ProjetCrud\obj\Debug\net8.0\ProjetCrud.AssemblyInfoInputs.cache
+D:\DA2I_L3\DOTNET\ProjetCrud\obj\Debug\net8.0\ProjetCrud.AssemblyInfo.cs
+D:\DA2I_L3\DOTNET\ProjetCrud\obj\Debug\net8.0\ProjetCrud.csproj.CoreCompileInputs.cache
+D:\DA2I_L3\DOTNET\ProjetCrud\obj\Debug\net8.0\ProjetCrud.MvcApplicationPartsAssemblyInfo.cache
+D:\DA2I_L3\DOTNET\ProjetCrud\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\DA2I_L3\DOTNET\ProjetCrud\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\DA2I_L3\DOTNET\ProjetCrud\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\DA2I_L3\DOTNET\ProjetCrud\obj\Debug\net8.0\scopedcss\bundle\ProjetCrud.styles.css
+D:\DA2I_L3\DOTNET\ProjetCrud\obj\Debug\net8.0\staticwebassets.build.json
+D:\DA2I_L3\DOTNET\ProjetCrud\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\DA2I_L3\DOTNET\ProjetCrud\obj\Debug\net8.0\staticwebassets.development.json
+D:\DA2I_L3\DOTNET\ProjetCrud\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\DA2I_L3\DOTNET\ProjetCrud\obj\Debug\net8.0\ProjetCrud.csproj.Up2Date
+D:\DA2I_L3\DOTNET\ProjetCrud\obj\Debug\net8.0\ProjetCrud.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\obj\Debug\net8.0\refint\ProjetCrud.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\obj\Debug\net8.0\ProjetCrud.pdb
+D:\DA2I_L3\DOTNET\ProjetCrud\obj\Debug\net8.0\ProjetCrud.genruntimeconfig.cache
+D:\DA2I_L3\DOTNET\ProjetCrud\obj\Debug\net8.0\ref\ProjetCrud.dll
+D:\DA2I_L3\DOTNET\ProjetCrud\bin\Debug\net8.0\ProjetCrud.staticwebassets.runtime.json
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\appsettings.Development.json
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\ProjetCrud.staticwebassets.endpoints.json
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\appsettings.json
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\ProjetCrud.staticwebassets.runtime.json
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\ProjetCrud.exe
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\ProjetCrud.deps.json
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\ProjetCrud.runtimeconfig.json
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\ProjetCrud.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\ProjetCrud.pdb
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\Humanizer.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\MySqlConnector.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\System.CodeDom.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ProjetCrud\obj\Debug\net8.0\ProjetCrud.csproj.AssemblyReference.cache
+E:\Project\boostdotnet\ProjetCrud\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\Project\boostdotnet\ProjetCrud\obj\Debug\net8.0\ProjetCrud.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\boostdotnet\ProjetCrud\obj\Debug\net8.0\ProjetCrud.AssemblyInfoInputs.cache
+E:\Project\boostdotnet\ProjetCrud\obj\Debug\net8.0\ProjetCrud.AssemblyInfo.cs
+E:\Project\boostdotnet\ProjetCrud\obj\Debug\net8.0\ProjetCrud.csproj.CoreCompileInputs.cache
+E:\Project\boostdotnet\ProjetCrud\obj\Debug\net8.0\ProjetCrud.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\boostdotnet\ProjetCrud\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\Project\boostdotnet\ProjetCrud\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\Project\boostdotnet\ProjetCrud\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\Project\boostdotnet\ProjetCrud\obj\Debug\net8.0\scopedcss\bundle\ProjetCrud.styles.css
+E:\Project\boostdotnet\ProjetCrud\obj\Debug\net8.0\staticwebassets.build.json
+E:\Project\boostdotnet\ProjetCrud\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Project\boostdotnet\ProjetCrud\obj\Debug\net8.0\staticwebassets.development.json
+E:\Project\boostdotnet\ProjetCrud\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Project\boostdotnet\ProjetCrud\obj\Debug\net8.0\ProjetCrud.csproj.Up2Date
+E:\Project\boostdotnet\ProjetCrud\obj\Debug\net8.0\ProjetCrud.dll
+E:\Project\boostdotnet\ProjetCrud\obj\Debug\net8.0\refint\ProjetCrud.dll
+E:\Project\boostdotnet\ProjetCrud\obj\Debug\net8.0\ProjetCrud.pdb
+E:\Project\boostdotnet\ProjetCrud\obj\Debug\net8.0\ProjetCrud.genruntimeconfig.cache
+E:\Project\boostdotnet\ProjetCrud\obj\Debug\net8.0\ref\ProjetCrud.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\appsettings.Development.json
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\appsettings.json
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\Humanizer.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\MySqlConnector.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\System.CodeDom.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\obj\Debug\net8.0\staticwebassets.build.json
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\obj\Debug\net8.0\staticwebassets.development.json
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\MonApiCrud.staticwebassets.runtime.json
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\MonApiCrud.staticwebassets.endpoints.json
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\MonApiCrud.exe
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\MonApiCrud.deps.json
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\MonApiCrud.runtimeconfig.json
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\MonApiCrud.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\bin\Debug\net8.0\MonApiCrud.pdb
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\obj\Debug\net8.0\MonApiCrud.csproj.AssemblyReference.cache
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\obj\Debug\net8.0\MonApiCrud.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\obj\Debug\net8.0\MonApiCrud.AssemblyInfoInputs.cache
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\obj\Debug\net8.0\MonApiCrud.AssemblyInfo.cs
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\obj\Debug\net8.0\MonApiCrud.csproj.CoreCompileInputs.cache
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\obj\Debug\net8.0\MonApiCrud.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\obj\Debug\net8.0\scopedcss\bundle\MonApiCrud.styles.css
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\obj\Debug\net8.0\MonApiCrud.csproj.Up2Date
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\obj\Debug\net8.0\MonApiCrud.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\obj\Debug\net8.0\refint\MonApiCrud.dll
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\obj\Debug\net8.0\MonApiCrud.pdb
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\obj\Debug\net8.0\MonApiCrud.genruntimeconfig.cache
+E:\Project\boostdotnet\ARONAINASOA Yisraèl Qadmièlslloos-DA2I L3-016I23\obj\Debug\net8.0\ref\MonApiCrud.dll
